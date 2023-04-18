@@ -1,0 +1,7 @@
+{
+  "name": "pruebaNoti",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
